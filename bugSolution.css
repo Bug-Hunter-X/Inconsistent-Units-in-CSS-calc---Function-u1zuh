@@ -1,0 +1,13 @@
+/* bugSolution.css */
+
+#container {
+  width: calc(50% - 10px); /* Corrected: Consistent unit usage */
+  background-color: lightblue;
+  padding: 10px;
+}
+
+#element {
+  width: 100%;
+  height: 50px;
+  background-color: lightcoral; 
+}
