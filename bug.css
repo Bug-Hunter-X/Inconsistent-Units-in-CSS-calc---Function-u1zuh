@@ -1,0 +1,1 @@
+The CSS property `calc()` is used to perform calculations. However, if you use it with units inconsistently, you might encounter unexpected results or errors. For example, mixing percentages and pixels directly inside `calc()` without proper unit conversion can lead to issues.
